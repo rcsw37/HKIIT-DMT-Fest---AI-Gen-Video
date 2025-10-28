@@ -108,9 +108,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: 
-    linear-gradient(135deg, rgba(102, 126, 234, 0.7) 0%, rgba(118, 75, 162, 0.7) 100%),
-    url('/images/Hero_cover.png');
+    background: url('/images/Hero_cover.png');
     background-size: cover;
     background-position: center;
     padding: 8rem 0 4rem;
