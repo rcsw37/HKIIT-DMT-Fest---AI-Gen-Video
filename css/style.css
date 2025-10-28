@@ -325,7 +325,7 @@ body {
 }
 
 .pillar-description {
-    color: rgba(203, 205, 225, 0.7);
+    color: white;
     line-height: 1.6;
 }
 
@@ -355,10 +355,10 @@ body {
 }
 
 .category-title {
+    color: white;
     font-size: 1.4rem;
     font-weight: 700;
     margin-bottom: 1rem;
-    color: white;
 }
 
 .category-description {
