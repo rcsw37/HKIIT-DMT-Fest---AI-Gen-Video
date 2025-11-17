@@ -113,7 +113,7 @@ body {
     url('../images/Hero_cover.png');
     background-size: cover;
     background-position: center;
-    padding: 8rem 0 4rem;
+    padding: 4rem 0 4rem;
     position: relative;
     overflow: hidden;
 }
