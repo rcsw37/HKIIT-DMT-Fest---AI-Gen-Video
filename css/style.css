@@ -36,7 +36,7 @@ body {
 }
 
 .container {
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 var(--spacing-md);
 }
@@ -152,7 +152,7 @@ body {
 
 .hero-content {
     color: white;
-    max-width: 800px;
+    max-width: 1000px;
 }
 
 .hero-subtitle {
