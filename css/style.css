@@ -602,6 +602,44 @@ body {
     font-weight: bold;
 }
 
+/* ==================== 評審團介紹 ==================== */
+.judges-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+}
+
+.judges-card {
+    background: #8b5cf6;
+    padding: 2rem;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.judges-score {
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.judges-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+.judges-description {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+
 /* ==================== 評審標準 ==================== */
 .evaluation-grid {
     display: grid;
