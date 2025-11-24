@@ -658,22 +658,22 @@ body {
 
 /* 第一個區塊 - 藍色 (30% 創意與原創性) */
 .evaluation-card:nth-child(1) {
-    background: #3b82f6;
+    background: linear-gradient(135deg, white, #3b82f6);
 }
 
 /* 第二個區塊 - 粉紅色 (25% 職業探索深度) */
 .evaluation-card:nth-child(2) {
-    background: #ec4899;
+    background: linear-gradient(135deg, white, #ec4899);
 }
 
 /* 第三個區塊 - 紫色 (25% 技術執行) */
 .evaluation-card:nth-child(3) {
-    background: #8b5cf6;
+    background: linear-gradient(135deg, white, #8b5cf6);
 }
 
 /* 第四個區塊 - 青色 (20% 互動視覺元素) */
 .evaluation-card:nth-child(4) {
-    background: #06b6d4;
+    background: linear-gradient(135deg, white, #06b6d4);
 }
 
 .evaluation-score {
