@@ -611,7 +611,7 @@ body {
 }
 
 .judges-card {
-    background: #8b5cf6;
+    background: linear-gradient(135deg, white, #8b5cf6);
     padding: 2rem;
     border-radius: 16px;
     text-align: center;
