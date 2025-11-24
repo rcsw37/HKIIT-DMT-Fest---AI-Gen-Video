@@ -687,11 +687,11 @@ body {
     font-size: 1.2rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: var(--text-dark);
+    color: white;
 }
 
 .evaluation-description {
-    color: var(--text-light);
+    color: rgba(255, 255, 255, 0.9);
     font-size: 0.9rem;
     line-height: 1.6;
 }
